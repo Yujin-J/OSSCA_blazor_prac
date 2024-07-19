@@ -27,3 +27,4 @@ C:\Users\YujinJung\Desktop\대외활동\OSSCA\obj\Debug\net8.0\refint\OSSCA.dll
 C:\Users\YujinJung\Desktop\대외활동\OSSCA\obj\Debug\net8.0\OSSCA.pdb
 C:\Users\YujinJung\Desktop\대외활동\OSSCA\obj\Debug\net8.0\OSSCA.genruntimeconfig.cache
 C:\Users\YujinJung\Desktop\대외활동\OSSCA\obj\Debug\net8.0\ref\OSSCA.dll
+C:\Users\YujinJung\Desktop\대외활동\OSSCA\obj\Debug\net8.0\OSSCA.sourcelink.json
